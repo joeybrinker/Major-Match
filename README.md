@@ -12,7 +12,7 @@ During this project, I learned how to communicate with OpenAI's API in Swift by 
 - Then navigate to https://openai.com/api/ and log in to "API Platform". 
 - Click on "Dashboard" which should be in the top right, and select "API Keys" on the left side. 
 - Once you select "API Keys", click "Create new secret key" and name it what you would like. 
-- Click "Create new secret key" and then copy the key it gives you. DO NOT SHARE THIS KEY WITH ANYONE AND DO NOT CLICK AWAY UNITL YOU HAVE COPIED THE KEY. 
+- Click "Create secret key" after naming and then copy the key it gives you. DO NOT SHARE THIS KEY WITH ANYONE AND DO NOT CLICK AWAY UNITL YOU HAVE COPIED THE KEY. 
 - Once copied, go back to the Xcode project and find the variable "api_key". 
 - In the empty quotes (""), paste your api key given to you in the previous step. 
 - Now, you can build the project and try it for yourself!
